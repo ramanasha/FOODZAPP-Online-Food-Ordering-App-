@@ -1,2 +1,2 @@
 # FOODZAPP-Online-Food-Ordering-App-
-Online Food Ordering Mobile Application
+Foodzapp is an online food ordering android based application. It is a third party application which can be integrated into any restaurant system. This will allow that restaurant or food chain to take orders through this app. There will be an interactive graphical user interface through which the user can select anything from the restaurant menu and can place order by giving his/her name, phone number and address. The user has an option to pay the bill online through this app or at the time of delivery.
